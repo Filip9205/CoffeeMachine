@@ -34,4 +34,4 @@ Type report to check the current resource levels.
 
 Type off to shut down the machine.
 
-Author: Filip Matevski
+**Author:** [Filip Matevski](https://github.com/Filip9205)
