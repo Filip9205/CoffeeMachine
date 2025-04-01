@@ -33,3 +33,5 @@ Type espresso, latte, or cappuccino to order a coffee.
 Type report to check the current resource levels.
 
 Type off to shut down the machine.
+
+Author: Filip Matevski
